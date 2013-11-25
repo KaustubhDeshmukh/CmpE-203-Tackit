@@ -3,6 +3,7 @@
 	<name>CmpE-203-Tackit</name>
 	<comment></comment>
 	<projects>
+		<project>Servers</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
