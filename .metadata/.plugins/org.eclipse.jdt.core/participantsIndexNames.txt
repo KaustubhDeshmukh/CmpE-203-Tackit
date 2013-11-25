@@ -1,5 +1,0 @@
-INDEX VERSION 1.126
-E:\US studies\SJSU\Courses\Fall - 2013\203\project\project-WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\576435082.index
-\CmpE-203-Tackit\src
-E:\US studies\SJSU\Courses\Fall - 2013\203\project\project-WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3537198562.index
-\CmpE-203-Tackit\src

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="CmpE-203-Tackit">
-        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-        <property name="context-root" value="CmpE-203-Tackit"/>
-        <property name="java-output-path" value="/CmpE-203-Tackit/build/classes"/>
-    </wb-module>
-</project-modules>
