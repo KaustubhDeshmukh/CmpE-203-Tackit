@@ -32,7 +32,7 @@ public class InventoryController implements Controller {
     	logger.info("Tenant is "+request.getSession().getAttribute("tenant"));
     	 Map<String, Object> myModel = new HashMap<String, Object>();
          myModel.put("now", now);
-         myModel.put("products", this.productManager.getProducts());
+        // myModel.put("products", this.productManager.getProducts());
 
          return new ModelAndView("hello", "model", myModel);
     }

@@ -26,7 +26,7 @@ public class PriceIncreaseFormController extends SimpleFormController {
         int increase = ((PriceIncreaseBean) command).getPercentage();
         logger.info("Increasing prices by " + increase + "%.");
 
-        productManager.increasePrice(increase);
+      //  productManager.increasePrice(increase);
 
         logger.info("returning from PriceIncreaseForm view to " + getSuccessView());
 
